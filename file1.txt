@@ -4,5 +4,6 @@ CREATED
 bug1 fixed in master
 Branch 1 1st change
 Branch 1 new feature completed
+Branch 2 new feature
 
 
