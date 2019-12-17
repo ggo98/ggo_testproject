@@ -2,4 +2,7 @@ CREATED
 1st change
 2nd change
 bug1 fixed in master
+Branch 1 1st change
+Branch 1 new feature completed
+
 
