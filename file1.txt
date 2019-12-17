@@ -7,4 +7,5 @@ Branch 1 new feature completed
 Branch 2 new feature
 
 B1
+B1 bis
 
