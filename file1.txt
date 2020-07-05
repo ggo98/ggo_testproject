@@ -12,3 +12,6 @@ B1 bis
 change 3
 
 B3
+
+
+VERSION 2
