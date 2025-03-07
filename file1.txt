@@ -1,3 +1,4 @@
+bug/some-bug-7-in-dev
 bug/some-bug-6-in-dev
 bug/some-bug-5-in-dev
 bug/some-bug-4-in-dev
