@@ -1,3 +1,4 @@
+bug/some-bug-2
 bug/some-bug
 b9
 b7
