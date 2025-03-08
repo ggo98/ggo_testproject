@@ -1,3 +1,5 @@
+bug/new-bug-2
+bug/new-bug
 bug/some-bug-7-in-dev-BIS
 bug/some-bug-7-in-dev
 bug/some-bug-6-in-dev
